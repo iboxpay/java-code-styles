@@ -1,7 +1,7 @@
 #!/bin/bash
-# Installs Square's IntelliJ configs into your user configs.
+# Installs iBoxPay's IntelliJ configs into your user configs.
 
-echo "Installing Square code style configs..."
+echo "Installing iBoxPay code style configs..."
 
 for i in $HOME/Library/Preferences/IntelliJIdea*/codestyles \
          $HOME/Library/Preferences/IdeaIC*/codestyles \
